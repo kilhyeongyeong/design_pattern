@@ -1,5 +1,5 @@
 # Design Pattern
-## [Singleton]([https://github.com/kilhyeongyeong/design_pattern/tree/main/design_pattern](https://github.com/kilhyeongyeong/design_pattern/blob/main/src/main/java/com/study/design_pattern/singleton/Singleton.java))
+## [Singleton](https://github.com/kilhyeongyeong/design_pattern/blob/main/src/main/java/com/study/design_pattern/singleton/Singleton.java)
 > 하나의 클래스에 오직 하나의 인스턴스만 가지는 패턴이며 보통 데이터 베이스 연결 모듀레 많이 사용
 ### 장점
 * 하나의 인스턴스를 만들어 놓고 해당 인스턴스를 다른 모듈들이 공유하며 사용하기 때문에 인스턴스를 생성할 때 드는 비용이 줄어듬
